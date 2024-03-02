@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:dkkobzev/dkkobzev.github.io.git
 	branch = main
+[submodule "reports"]
+	path = reports
+	url = git@github.com:dkkobzev/dkkobzev.github.io.git
+	branch = main
