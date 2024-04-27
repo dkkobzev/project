@@ -84,31 +84,30 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://elibrary.ru/defaultx.asp
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0004-4190-7642
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=ru&user=OyBxkR0AAAAJ
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/login
+  - icon: gg
+    icon_pack: fab
+    link: https:https://independent.academia.edu/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%9A%D0%BE%D0%B1%D0%B7%D0%B5%D0%B22
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/dkkobzev\
+  - icon: dev
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
+    link: https://arxiv.org/user/
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
