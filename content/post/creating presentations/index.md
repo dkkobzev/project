@@ -36,7 +36,7 @@ tags:
   - Academic
 
 categories:
-  - Markdown
+  - Presentations
 ---
 
 ## Как создать впечатляющую презентацию: секреты и советы
